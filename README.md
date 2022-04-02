@@ -1,11 +1,16 @@
 ### Hi there 👋, I am Nonelela Cele
 
 
-### I am an aspiring Fullstack developer and a final year student at Nelson Mandela University
+### I am an aspiring Fullstack developer and a final year student at Nelson Mandela University ❤️
 <hr/>
 
 ### Tools:
+1. Java
+2. C#
+3. PHP
+4. JAVASCRIPT
+5. REACT JS
+6. ASP.NET MVC
+7. NODEJS (EXPRESS JS)
+8. LINUX TERMINAL
 
-
-
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANode.js_logo.svg&psig=AOvVaw36t5hbqbgGFXxgtfs_eSta&ust=1648972201538000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCh0KTy9PYCFQAAAAAdAAAAABAD)
