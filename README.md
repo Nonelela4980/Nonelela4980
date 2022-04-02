@@ -5,12 +5,21 @@
 <hr/>
 
 ### Tools:
-1. Java
-2. C#
-3. PHP
-4. JAVASCRIPT
-5. REACT JS
-6. ASP.NET MVC
-7. NODEJS (EXPRESS JS)
-8. LINUX TERMINAL
+1. HTML
+2. CSS
+3. C#
+4. JAVA
+5. KOTLIN
+6. PHP
+7. JAVASCRIPT
+8. REACT JS
+9. ASP.NET MVC
+10. NODEJS (EXPRESS JS)
+11. MYSQL
+12. MONGODB
+13.TAILWIND CSS
+14. ANDROID SDK 
+15. LINUX TERMINAL
+
+for more [check my portfolio] [https://nonelela4980.github.io/personal-portfolio/]
 
