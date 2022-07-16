@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nonelela</h1>
 <h3 align="center">A passionate fullstack junior developer from South Africa</h3>
 
-<p align="left"> <a href="https://twitter.com/nonelela_cele" target="blank"><img src="https://img.shields.io/twitter/follow/nonelela_cele?logo=twitter&style=for-the-badge" alt="nonelela_cele" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nonelelachele" target="blank"><img src="https://img.shields.io/twitter/follow/nonelela_cele?logo=twitter&style=for-the-badge" alt="nonelela_cele" /></a> </p>
 
 - 🔭 I’m currently working on e-commerce website [TechIO](https://github.com/Nonelela4980/techio-backend)
 
