@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nonelela Cele</h1>
 <h3 align="center">A passionate Software developer from South Africa</h3>
 
-- 🔭 I’m currently working on **techio**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **nonelelacele@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
